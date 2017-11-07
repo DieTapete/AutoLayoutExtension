@@ -10,7 +10,7 @@ A simple UIView extension that adds some convenience autolayout methods.
   s.homepage         = 'https://github.com/dietapete/AutoLayoutExtension'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Henner' => 'henner@tapwork.de' }
-  s.source           = { :git => 'https://github.com/Henner/AutoLayoutExtension.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/dietapete/AutoLayoutExtension.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
