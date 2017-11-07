@@ -1,0 +1,22 @@
+{
+  "name": "AutoLayoutExtension",
+  "version": "0.1.0",
+  "summary": "A short description of AutoLayoutExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Henner/AutoLayoutExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Henner": "henner@tapwork.de"
+  },
+  "source": {
+    "git": "https://github.com/Henner/AutoLayoutExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AutoLayoutExtension/Classes/**/*"
+}
